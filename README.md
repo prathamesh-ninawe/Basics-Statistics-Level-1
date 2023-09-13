@@ -108,7 +108,7 @@ print('Z score for 60% Conifidence Intervla =',np.round(stats.norm.ppf(.03),4)) 
 z value for 60% confidence interval
 print('Z score for 60% Conifidence Intervla =',np.round(stats.norm.ppf(.2),4)) Z score for 60% Conifidence Intervla = -0.8416
 
-        Q 23) Calculate the t scores of 95% confidence interval, 96% confidence interval, 99% confidence interval for sample size of 25
+Q 23) Calculate the t scores of 95% confidence interval, 96% confidence interval, 99% confidence interval for sample size of 25
 Ans:
 
 t score for 95% confidence interval
