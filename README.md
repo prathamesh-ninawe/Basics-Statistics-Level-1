@@ -1,5 +1,8 @@
 Assignment Basic Stats
+
 Q1) Identify the Data type for the Following:
+
+
 Q2) Identify the Data types, which were among the following
 Nominal, Ordinal, Interval, Ratio.
 Data Data Type Gender Nominal High School Class Ranking Ordinal Celsius Temperature Interval Weight Ratio Hair Color Nominal Socioeconomic Status Ordinal Fahrenheit Temperature Interval Height Ratio Type of living accommodation Ordinal Level of Agreement Ordinal IQ (Intelligence Scale) Ratio Sales Figures Ratio Blood Group Nominal Time Of Day Ordinal Time on a Clock with Hands Interval Number of Children Nominal Religious Preference Nominal Barometer Pressure Interval SAT Scores Interval Years of Education Ordinal
@@ -19,6 +22,8 @@ Below are the probabilities of count of candies for children (ignoring the natur
 
 Q7) Calculate Mean, Median, Mode, Variance, Standard Deviation, Range & comment about the values / draw inferences, for the given dataset
 For Points, Score, Weigh> Find Mean, Median, Mode, Variance, Standard Deviation, and Range and also Comment about the values/ Draw some inferences. Use Q7.csv file Ans: Mean for Points = 3.59, Score = 3.21 and Weigh = 17.84 Median for Points = 3.69, Score = 3.32 and Weigh = 17.71 Mode for Points = 3.07, Score = 3.44 and Weigh = 17.02 Variance for Points = 0.28, Score = 0.95, Weigh = 3.19 Standard Deviation for Points = 0.53, Score = 0.97, Weigh = 1.78 Range [Min-Max] for Points [3.59 – 4.93], Score [3.21 – 5.42] and Weigh [17.84 – 22.9] Draw Inferences
+
+
 Q8) Calculate Expected Value for the problem below
 a) The weights (X) of patients at a clinic (in pounds), are 108, 110, 123, 134, 135, 145, 167, 187, 199 Assume one of the patients is chosen at random. What is the Expected Value of the Weight of that patient? Ans: Expected value = Sum (X * Probability of X) = (1/9)(108)+ (1/9)(110)+ (1/9)(123)+ (1/9)(134)+ (1/9)(145)+ (1/9)(167)+ (1/9)(187)+ (1/9)(199) = 145.33
 
