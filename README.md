@@ -1,4 +1,8 @@
-```Activity	Data Type```
+# Basics-Statistics-Level-1
+
+
+## Q1) 
+Activity	Data Type
 Number of beatings from Wife	Discrete 
 Results of rolling a dice	Discrete
 Weight of a person	Continuous Data
@@ -11,9 +15,9 @@ Number of kids	Discrete Data
 Number of tickets in Indian railways	Discrete Data
 Number of times married	Discrete Data
 Gender (Male or Female)	Nominal Data
-Q1) Identify the Data type for the Following
 
-```Q2) Identify the Data types, which were among the following```
+
+## Q2) Identify the Data types, which were among the following
 Nominal, Ordinal, Interval, Ratio.
 Data	Data Type
 Gender	Nominal 
@@ -38,14 +42,14 @@ SAT Scores	Interval
 Years of Education	Ratio
 
 
-Q3) Three Coins are tossed, find the probability that two heads and one tail are obtained?
+## Q3) Three Coins are tossed, find the probability that two heads and one tail are obtained?
 	Taken question in consideration.
 Total outcomes are: 23 = 8
 HHH, HHT, HTH, THH, TTH, THT, HTT, TTT so we can see
 Answer = 3/8 = 0.375
 
 
-Q4)  Two Dice are rolled, find the probability that sum is
+## Q4)  Two Dice are rolled, find the probability that sum is
 a)	Equal to 1
 b)	Less than or equal to 4
 c)	Sum is divisible by 2 and  3
@@ -61,7 +65,7 @@ c)	Sum is divisible by 2 and  3
 
 Probability = 6/36 = 1/6
 
-Q5)  A bag contains 2 red, 3 green and 2 blue balls. Two balls are drawn at random. What is the probability that none of the balls drawn is blue?
+## Q5)  A bag contains 2 red, 3 green and 2 blue balls. Two balls are drawn at random. What is the probability that none of the balls drawn is blue?
 
 	All possible outcomes are 
 2C7 = 21
@@ -73,7 +77,7 @@ Therefore => answer = 10/21
 
 
 
-Q6) Calculate the Expected number of candies for a randomly selected child 
+## Q6) Calculate the Expected number of candies for a randomly selected child 
 Below are the probabilities of count of candies for children (ignoring the nature of the child-Generalized view)
 CHILD	Candies count	Probability
 A	1	0.015
@@ -90,7 +94,7 @@ Child B – probability of having 4 candies = 0.20
 = 3.090
 
 
-Q7) Calculate Mean, Median, Mode, Variance, Standard Deviation, Range &     comment about the values / draw inferences, for the given dataset
+## Q7) Calculate Mean, Median, Mode, Variance, Standard Deviation, Range &     comment about the values / draw inferences, for the given dataset
 -	For Points,Score,Weigh>
 Find Mean, Median, Mode, Variance, Standard Deviation, and Range and also Comment about the values/ Draw some inferences.
 Use Q7.csv file 
@@ -143,7 +147,7 @@ The range of the weight (8.3999) suggests a substantial range of weight values.
 
 
 
-Q8) Calculate Expected Value for the problem below
+## Q8) Calculate Expected Value for the problem below
 a)	The weights (X) of patients at a clinic (in pounds), are
 108, 110, 123, 134, 135, 145, 167, 187, 199
 Assume one of the patients is chosen at random. What is the Expected Value of the Weight of that patient?
@@ -156,7 +160,7 @@ If we multiply weights with 1/9(probability)
 =145.33
 
 
-Q9) Calculate Skewness, Kurtosis & draw inferences on the following data
+## Q9) Calculate Skewness, Kurtosis & draw inferences on the following data
       Cars speed and distance 
 Use Q9_a.csv
 	To calculate skewness we need to calculate mean 
@@ -277,7 +281,7 @@ The tail on the left-hand side (the lower values) is longer or more spread out t
 The majority of the data points tend to be concentrated on the right side of the distribution, while there are fewer extreme values on the left side.
 A kurtosis value of approximately 0.8194 suggests that the dataset has positive kurtosis. Positive kurtosis indicates that the dataset has slightly heavier tails and a slightly more peaked central peak compared to a normal distribution.
 
-Q10) Draw inferences about the following boxplot & histogram
+## Q10) Draw inferences about the following boxplot & histogram
 
  
 Here we can see that the major Chick weights fall in the catogory of 50-100g(measures in x) as the maximum which is 200.The minimum weights have afrequency if less than or equal to 5.
@@ -290,7 +294,7 @@ The data is right skewed.There areoutliers at upper side.
 The data is right skewed.,There areoutliers at upper side
 Median is less than mean right skewed and we have outlier on the upperside ofbox plot and there is less data points between Q1 and bottom point.
 
-Q11)  Suppose we want to estimate the average weight of an adult male in    Mexico. We draw a random sample of 2,000 men from a population of 3,000,000 men and weigh them. We find that the average person in our sample weighs 200 pounds, and the standard deviation of the sample is 30 pounds. Calculate 94%,98%,96% confidence interval?
+## Q11)  Suppose we want to estimate the average weight of an adult male in    Mexico. We draw a random sample of 2,000 men from a population of 3,000,000 men and weigh them. We find that the average person in our sample weighs 200 pounds, and the standard deviation of the sample is 30 pounds. Calculate 94%,98%,96% confidence interval?
 	X (+/-) Z(1-alpha) * standard_dev/sqrt(n)
 Here
  
@@ -313,7 +317,7 @@ b) 200 (+/-) 2.326 * 0.6708
 = 200 (+/-) 1.377
 
 
-Q12)  Below are the scores obtained by a student in tests 
+## Q12)  Below are the scores obtained by a student in tests 
 34,36,36,38,38,39,39,40,40,41,41,41,41,42,42,45,49,56
 1)	Find mean, median, variance, standard deviation.
 2)	What can we say about the student marks? 
@@ -338,17 +342,17 @@ The data appears to be somewhat positively skewed, as there are more students wi
 The range (22) and the standard deviation (approximately 6.67, rounded to two decimal places) indicate moderate variability in the dataset. Some students scored quite high (e.g., 56), while others scored relatively low (e.g., 34).
 The range (22) and the standard deviation (approximately 6.67, rounded to two decimal places) indicate moderate variability in the dataset. Some students scored quite high (e.g., 56), while others scored relatively low (e.g., 34).
 
-Q13) What is the nature of skewness when mean, median of data are equal?
+## Q13) What is the nature of skewness when mean, median of data are equal?
 	The skewness will be symmetrical. Hence both the sides of the plot must be equal in proportion for the data should be normally distributed.
 
 
-Q14) What is the nature of skewness when mean > median ?
+## Q14) What is the nature of skewness when mean > median ?
 	For data which produces mean > median the skewness will be a +ve skewness or the data will be right skewed. Most of the data will be lying on the left side of the plot. Mean always tends to go towards the most skewed part since skewness influences the mean.
-Q15) What is the nature of skewness when median > mean?
+## Q15) What is the nature of skewness when median > mean?
 	For data which produces median > mean the skewness will be a -ve skewness or the data will be left skewed. Most of the data will be lying on the right side of the plot. Mean always tends to go towards the most skewed part since skewness influences the mean.
-Q16) What does positive kurtosis value indicates for a data?
+## Q16) What does positive kurtosis value indicates for a data?
 	A distribution with a positive kurtosis value indicates that the distributionhas heavier tails than the normal distribution. For example, data that follow a tdistribution have a positive kurtosis value.
-Q17) What does negative kurtosis value indicates for a data?
+## Q17) What does negative kurtosis value indicates for a data?
 	A distribution with a negative kurtosis value indicates that the distribution has lighter tails than the normal distribution.
 Q18) Answer the below questions using the below boxplot visualization.
  
@@ -373,12 +377,12 @@ What will be the IQR of the data (approximately)?
 
 
 
-Q19) Comment on the below Boxplot visualizations? 
+## Q19) Comment on the below Boxplot visualizations? 
  
 Draw an Inference from the distribution of data for Boxplot 1 with respect Boxplot 2.
 	Here when we compare box plot 1 with box plot 2 we can say that the data in box plot 1 is widely spread. Here the main inference is that since the data range varies high in box plot 2 it is hard to make a prediction in box plot 2. The median in the 2box plots are equal. And the data spread in both of them are symmetrical
 
-Q 20) Calculate probability from the given dataset for the below cases
+## Q20) Calculate probability from the given dataset for the below cases
 
 Data _set: Cars.csv
 Calculate the probability of MPG  of Cars for the below cases.
@@ -407,7 +411,7 @@ P (20<MPG<50)
 =0.955 -0.057
 =0.8988689
 
-Q 21) Check whether the data follows normal distribution
+## Q 21) Check whether the data follows normal distribution
 a)	Check whether the MPG of Cars follows Normal Distribution 
         Dataset: Cars.csv
 		 
@@ -424,19 +428,19 @@ This dataset is somewhat following a normal distribution.
 
 
 
-Q 22) Calculate the Z scores of  90% confidence interval,94% confidence interval, 60% confidence interval 
+## Q22) Calculate the Z scores of  90% confidence interval,94% confidence interval, 60% confidence interval 
 
  
 
 
 
-Q 23) Calculate the t scores of 95% confidence interval, 96% confidence interval, 99% confidence interval for sample size of 25
+## Q23) Calculate the t scores of 95% confidence interval, 96% confidence interval, 99% confidence interval for sample size of 25
   	 
 
 
 
 
-Q 24)   A Government  company claims that an average light bulb lasts 270 days. A researcher randomly selects 18 bulbs for testing. The sampled bulbs last an average of 260 days, with a standard deviation of 90 days. If the CEO's claim were true, what is the probability that 18 randomly selected bulbs would have an average life of no more than 260 days
+## Q 24)   A Government  company claims that an average light bulb lasts 270 days. A researcher randomly selects 18 bulbs for testing. The sampled bulbs last an average of 260 days, with a standard deviation of 90 days. If the CEO's claim were true, what is the probability that 18 randomly selected bulbs would have an average life of no more than 260 days
 Hint:  
    rcode   pt(tscore,df)  
  df  degrees of freedom
