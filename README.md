@@ -1,4 +1,4 @@
-Activity	Data Type
+```Activity	Data Type```
 Number of beatings from Wife	Discrete 
 Results of rolling a dice	Discrete
 Weight of a person	Continuous Data
@@ -11,9 +11,9 @@ Number of kids	Discrete Data
 Number of tickets in Indian railways	Discrete Data
 Number of times married	Discrete Data
 Gender (Male or Female)	Nominal Data
-Q1) Identify the Data type for the Following:
+Q1) Identify the Data type for the Following
 
-Q2) Identify the Data types, which were among the following
+```Q2) Identify the Data types, which were among the following```
 Nominal, Ordinal, Interval, Ratio.
 Data	Data Type
 Gender	Nominal 
